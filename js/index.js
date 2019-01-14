@@ -272,7 +272,7 @@ var WWW = (function(undefined) {
 
 $(function() {
 
-    var api = API('https://ptpb.pw/');
+    var api = API('https://dbco.link/');
     var app = WWW();
 
     function paste_submit(event) {
